@@ -9,10 +9,7 @@
 <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Penn000/SpA-GAN_for_cloud_removal?style=social"> <img alt="GitHub stars" src="https://img.shields.io/github/stars/Penn000/SpA-GAN_for_cloud_removal?style=social"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/Penn000/SpA-GAN_for_cloud_removal?style=social">
 </div>
 
-
-### new
-
-- 2020.9.29  The draft is released now at https://arxiv.org/abs/2009.13015.
+This codes is mainly copy from https://github.com/Penn000/SpA-GAN_for_cloud_removal
 
 
 ## 1. INTRODUCTION
